@@ -1,3 +1,4 @@
-For this mini-project, I will deconstruct the Google home web page and rebuild it.
+[View it live](https://chrisnotthere.github.io/google-homepage/) :point_left:
 
-Once finished, I will update this file with what I have learned along the way.
+For this mini-project, I deconstructed the Google homepage and rebuild it using HTML and CSS.
+
