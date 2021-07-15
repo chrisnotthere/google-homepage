@@ -2,3 +2,4 @@
 
 For this mini-project, I deconstructed the Google homepage and rebuild it using HTML and CSS.
 
+TODO: improve input text hover effect
